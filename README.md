@@ -25,4 +25,4 @@ Just like medical insurance, there is vehicle insurance where every year custome
    + Google colab
    + Jupyter notebook
 
-- libraries: Pandas, Numpy, Seaborn, matplotlib, Scikit-Learn, imblearn, catboost
+- Libraries: Pandas, Numpy, Seaborn, matplotlib, Scikit-Learn, imblearn, catboost
