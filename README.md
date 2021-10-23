@@ -16,8 +16,13 @@ Just like medical insurance, there is vehicle insurance where every year custome
 
 ## Dataset<a name="dataset"></a>
 * This project relates to the Vehicle Insurance data set, which can be found in the file train.csv in the data folder. It contains a number of variables for 381109 different ID customers in a company. 
+* The dataset has been divided into 2 parts for you: train and test test.
 
 ## How to Run<a name="run"></a>
 ### Install requirements <a name="install"></a>
-- Python: Python version 3
+- Invironment: 
+   + Python version 3
+   + Google colab
+   + Jupyter notebook
+
 - libraries: Pandas, Numpy, Seaborn, matplotlib, Scikit-Learn, imblearn, catboost
