@@ -15,7 +15,7 @@ An insurance policy is an arrangement by which a company undertakes to provide a
 Just like medical insurance, there is vehicle insurance where every year customer needs to pay a premium of a certain amount to the insurance provider company so that in case of an unfortunate accident by the vehicle, the insurance provider company will provide a compensation (called ‘sum assured’) to the customer.
 
 ## Dataset<a name="dataset"></a>
-* This project relates to the Vehicle Insurance data set, which can be found in the data folder. It contains a number of variables for 381109 different ID customers of a company in train_set. 
+* This project relates to the Vehicle Insurance data set, which can be found in the data folder or from kaggle . It contains a number of variables for 381109 different ID customers of a company in train_set. 
 * The dataset has been divided into 2 parts for you: train and test test.
 
 ## How to Run<a name="run"></a>
